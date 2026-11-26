@@ -31,6 +31,15 @@ Co-developed a binary integer programming model for sports scheduling and travel
 
 **Methods:** Integer Programming, Mathematical Optimization, Gurobi, Computational Benchmarking
 
+### Statistical Modeling & Machine Learning
+
+**[Post-Promotion Demand Recovery Prediction](https://github.com/chenhsunhuang/post-promotion-demand-recovery)**
+
+Co-developed a multi-stage promotion event detection and demand recovery prediction framework. Compared alternative recovery-time definitions and evaluated category-specific classifiers, with KNN achieving up to 79% accuracy and a macro-F1 score of 0.76.
+
+**Methods:** Event Detection, Rolling Statistics, Target Engineering, Forward Feature Selection, KNN, XGBoost
+
+
 ## Technical Skills
 
 | Category | Skills & Tools |
