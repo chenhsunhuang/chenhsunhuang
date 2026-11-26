@@ -15,6 +15,16 @@ My technical interests lie at the intersection of machine learning, causal infer
 - Decision Science & Optimization
 - Data Engineering & Reproducible Analytics
 
+## Selected Projects
+
+### Decision Science & Optimization
+
+**[KKBOX Churn Prediction & Causal Decision Framework](https://github.com/chenhsunhuang/kkbox-causal-decision-framework)**
+
+Developed a subsidy decision framework integrating churn prediction, causal inference, and expected net benefit. Evaluated the credibility of individualized intervention recommendations and proposed a stratified randomized experiment.
+
+**Methods:** XGBoost, LightGBM, Propensity Score Matching, Uplift Modeling, Experimental Design
+
 ## Technical Skills
 
 | Category | Skills & Tools |
