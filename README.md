@@ -25,6 +25,12 @@ Developed a subsidy decision framework integrating churn prediction, causal infe
 
 **Methods:** XGBoost, LightGBM, Propensity Score Matching, Uplift Modeling, Experimental Design
 
+**[MLB Schedule Optimization](https://github.com/chenhsunhuang/mlb-schedule-optimization)**
+
+Co-developed a binary integer programming model for sports scheduling and travel cost optimization. Evaluated computational scalability across different team counts and matchup requirements.
+
+**Methods:** Integer Programming, Mathematical Optimization, Gurobi, Computational Benchmarking
+
 ## Technical Skills
 
 | Category | Skills & Tools |
