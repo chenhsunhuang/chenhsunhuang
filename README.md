@@ -39,6 +39,11 @@ Co-developed a multi-stage promotion event detection and demand recovery predict
 
 **Methods:** Event Detection, Rolling Statistics, Target Engineering, Forward Feature Selection, KNN, XGBoost
 
+**[Flight Delay Statistical Modeling](https://github.com/chenhsunhuang/flight-delay-statistical-modeling)**
+
+Developed generalized linear models in R using a 200,000-record sample of U.S. domestic flights. Conducted interaction analysis, statistical model selection, and model diagnostics, and developed scenario-based risk sensitivity measures to support airline operational planning.
+
+**Methods:** Logistic Regression, Generalized Linear Models, Likelihood Ratio Tests, AIC, Model Diagnostics, Sensitivity Analysis
 
 ## Technical Skills
 
