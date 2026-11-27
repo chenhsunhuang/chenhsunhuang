@@ -6,7 +6,7 @@
 
 I am an undergraduate student in Business Administration (Technology Management) at National Taiwan University, with a foundation in statistics, programming, and operations research.
 
-My technical interests lie at the intersection of machine learning, causal inference, and optimization. I am particularly interested in combining predictive models, statistical evidence, and mathematical optimization to develop reliable data-driven decision frameworks.
+My technical interests include machine learning, causal inference, and mathematical optimization. I am particularly interested in how these methods can be combined to move beyond prediction and support reliable and actionable decisions.
 
 ## Technical Interests
 
