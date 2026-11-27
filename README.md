@@ -45,6 +45,14 @@ Developed generalized linear models in R using a 200,000-record sample of U.S. d
 
 **Methods:** Logistic Regression, Generalized Linear Models, Likelihood Ratio Tests, AIC, Model Diagnostics, Sensitivity Analysis
 
+### Database Engineering & Data Systems
+
+**[Zoo Database Management System](https://github.com/chenhsunhuang/zoo-database-management-system)**
+
+Co-designed a 12-table relational database and led synthetic data generation for zoo management operations. Co-implemented transaction management and concurrency control within a hybrid PostgreSQL and MongoDB architecture. Composite indexing achieved approximately 6–8× query speedups in team benchmarks.
+
+**Methods:** Relational Database Design, Database Normalization, Synthetic Data Generation, SQL Optimization, Transaction Management, Concurrency Control, PostgreSQL, MongoDB
+
 ## Technical Skills
 
 | Category | Skills & Tools |
