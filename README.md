@@ -45,6 +45,12 @@ Developed generalized linear models in R using a 200,000-record sample of U.S. d
 
 **Methods:** Logistic Regression, Generalized Linear Models, Likelihood Ratio Tests, AIC, Model Diagnostics, Sensitivity Analysis
 
+**[Cross-Company News-Based Stock Movement Prediction](https://github.com/chenhsunhuang/cross-company-stock-movement-prediction)**
+
+Co-developed a financial news NLP framework incorporating company-specific text filtering, weighted text representation, and statistical vocabulary selection. Independently redesigned the feature selection pipeline to restrict vocabulary construction and TF-IDF fitting to chronological training data. Examined accuracy–coverage trade-offs in cross-company prediction.
+
+**Methods:** Chinese NLP, Chi-square, Mutual Information, TF-IDF, Linear SVM, Temporal Validation
+
 ### Database Engineering & Data Systems
 
 **[Zoo Database Management System](https://github.com/chenhsunhuang/zoo-database-management-system)**
