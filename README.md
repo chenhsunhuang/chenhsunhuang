@@ -67,7 +67,7 @@ Co-designed a 12-table relational database and led synthetic data generation for
 | Machine Learning | scikit-learn, XGBoost, LightGBM |
 | Statistical Modeling & Inference | Generalized Linear Models (GLMs), Causal Inference, Uplift Modeling |
 | Optimization & Algorithms | Mathematical Programming, Genetic Algorithms, Gurobi |
-| Natural Language Processing | BERT, NLTK, jieba |
+| Natural Language Processing | BERT, MONPA, NLTK, jieba |
 | Data Processing | NumPy, pandas, DuckDB |
 | Database Systems | PostgreSQL, MySQL, Microsoft SQL Server |
 | Visualization | Matplotlib, ggplot2, Tableau |
